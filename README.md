@@ -78,7 +78,7 @@
 
 ---
 
-### 🎯 Goals for for 2026  
+### 🎯 Goals for 2026  
 - 📘 Master Machine Learning fundamentals  
 - 🤖 Build end-to-end AI/ML projects  
 - 📂 Publish high-quality datasets on Kaggle  
