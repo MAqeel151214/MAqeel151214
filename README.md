@@ -1,95 +1,96 @@
-<h1 align="center">Hi 👋, I'm Muhammad Aqeel</h1>
-<h3 align="center">Aspiring Data Scientist | AI Enthusiast | Lifelong Learner</h3>
-
----
-
-### 🚀 About Me
-- 📊 Aspiring **Data Scientist** passionate about **AI, ML & Deep Learning**  
-- 🤖 I love exploring how machines learn and how data transforms into intelligence  
-- 📈 Currently learning **Python, Pandas, NumPy, ML basics, and data visualization**  
-- 🧠 A big fan of learning new things — one concept at a time  
-- 🌱 Building projects to strengthen my skills and showcase my learning journey  
-- 💼 Open to **internships, remote roles, freelancing (Fiverr)**  
-
----
-
-### 🔗 Connect With Me
-
-<p>
-<a href="https://www.linkedin.com/in/muhammad-aqeel-kabir/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://github.com/MAqeel151214" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="https://www.kaggle.com/muhammadaqeelkabir" target="_blank">
-  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
-</a>
-</p>
-
----
-
-### 🛠️ Technologies & Tools
-
-#### Languages
-- Python 🐍 | Java ☕ | C++ ⚙️ | SQL 🗄 | JS | HTML | CSS | JS | MySQL
-
-#### Data Science & AI
-- Pandas  
-- NumPy  
-- Matplotlib  
-- Seaborn  
-- Jupyter Notebooks  
-
-#### Other Tools
-- Git & GitHub  
-- Streamlit  
-- Tableau  
-- VS Code  
-- Eclipse
-
----
-
-### 📚 Featured Projects
-
-🔹 **ATM System (Python GUI)**  
-🔹 **GUI-based Snake Game (Java)**  
-🔹 **Login/Registration App (Python)**  
-🔹 **User Activity Dataset – my own dataset uploaded to Kaggle**
-🔹 **Youtube-video-manager**
-🔹 **50-Year-Tkinter-Calendar**
-
-
-
-*More coming soon… 🚧*
-
----
-
-### 📊 GitHub Stats
-
+<h1 align="center">Muhammad Aqeel</h1>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MAqeel151214&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MAqeel151214&theme=tokyonight" height="165"/>
+  <strong>AI / ML Engineer · Data Scientist · LLM Evaluation & Safety Research</strong>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MAqeel151214&layout=compact&theme=tokyonight"/>
+  Building data-driven systems, evaluating large language models, and designing
+  robust ML pipelines with a focus on ethics, safety, and real-world impact.
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MAqeel151214&show_icons=true&theme=radical" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MAqeel151214&layout=compact&theme=radical" width="40%" />
 </p>
 
 ---
 
-### 🎯 Goals for 2026  
-- 📘 Master Machine Learning fundamentals  
-- 🤖 Build end-to-end AI/ML projects  
-- 📂 Publish high-quality datasets on Kaggle  
-- 🔗 Contribute to open-source ML repositories  
-- 📄 Land an internship or a freelance gig in Data Science  
+## 👋 About Me
+- 🎯 Aspiring **AI / Machine Learning Engineer** with strong foundations in data analysis and systems thinking  
+- 🧠 Actively working on **LLM evaluation, safety, bias, and benchmarking frameworks**
+- 📊 Experienced with **Python, Pandas, NumPy**, and structured datasets (JSONL, CSV)
+- 🔍 Interested in **model behavior analysis, robustness, and ethical AI**
+- 🚀 Long-term goal: contribute to **reliable and transparent AI systems**
 
 ---
 
-### 💬 Ask Me About
-Java,C++,HTML,CSS,JS (basics),MYSQL,Python, Data Analytics, Visualizations, APIs, beginner ML, Streamlit dashboards, and more!
+## 🛠️ Technical Skills
+
+### Programming & Data
+- **Python**, SQL, Java (academic & projects)
+- Pandas, NumPy, Matplotlib
+
+### Machine Learning & AI
+- Scikit-Learn
+- NLP preprocessing & data cleaning
+- Model evaluation & benchmarking pipelines
+
+### LLM & Evaluation Work
+- Safety / Ethics / Bias datasets (JSONL)
+- Rubric-based scoring systems
+- Model comparison & regression tracking (conceptual + implementation)
+
+### Tools & Platforms
+- Git & GitHub
+- Jupyter Notebook
+- Linux
+- MySQL (integration with Python & PHP)
 
 ---
 
-⭐ **If you like my work, consider giving my repo**
+## 🔬 Current Focus Areas
+- 🧪 **LLM benchmarking frameworks** (safety, ethics, bias)
+- 📐 Dataset schema design for evaluation tasks
+- 🧠 Understanding reasoning, adversarial prompting, and failure modes
+- 📊 Visualization & comparative analysis of model outputs
+
+---
+
+## 📌 Featured Work
+
+| Area | Description |
+|-----|------------|
+| **LLM Evaluation Platform** | Framework to benchmark LLMs on safety, ethics, and bias using structured JSONL datasets |
+| **Data Analysis Projects** | Exploratory analysis, pivot tables, and visualizations using Pandas |
+| **NLP Data Cleaning** | Annotation, preprocessing, and normalization of text data |
+| **Academic Projects** | Java, assembly language fundamentals, and systems-level understanding |
+
+> 📍 Only repositories where I am the **original author** are considered primary work.
+
+---
+
+## 🧠 How I Think About Projects
+- ✅ Prefer **clean schemas** and extensible designs  
+- ✅ Focus on **evaluation, metrics, and behavior**, not just accuracy  
+- ✅ Avoid unnecessary complexity (e.g., databases unless required)  
+- ✅ Build with future expansion in mind (reasoning, adversarial tests, compliance)
+
+---
+
+## 🌱 Learning Roadmap
+- Advanced NLP & LLM internals
+- Reasoning and chain-of-thought evaluation
+- Robust ML system design
+- Research-level benchmarking methodologies
+
+---
+
+## 📫 Connect
+- GitHub: **@MAqeel151214**
+- Open to collaboration on **AI, ML, NLP, and evaluation research**
+
+---
+
+<p align="center">
+  <em>"Build systems that can be trusted — not just systems that work."</em>
+</p>
