@@ -24,22 +24,22 @@
 ║                         NEURAL-OPS // SECURE CHANNEL                         ║
 ╠══════════════════════════════════════════════════════════════════════════════╣
 ║                                                                              ║
-║  USER       : Muhammad Aqeel                                                ║
+║  USER       : Muhammad Aqeel                                                 ║
 ║  HANDLE     : MAqeel151214                                                   ║
 ║  ROLE       : AI / ML / DL Engineer in Progress                              ║
 ║                                                                              ║
 ║  DOMAIN     : Machine Learning • Deep Learning • NLP • LLMs                  ║
 ║               AI Evaluation • Data Science • Intelligent Systems             ║
 ║                                                                              ║
-║  OPERATING  : BUILD → EXPERIMENT → MEASURE → BREAK → REBUILD                ║
+║  OPERATING  : BUILD → EXPERIMENT → MEASURE → BREAK → REBUILD                 ║
 ║                                                                              ║
 ║  CURRENT    : Exploring the machinery behind intelligent systems             ║
 ║  OBJECTIVE  : Turn mathematical ideas into measurable AI systems             ║
 ║                                                                              ║
 ║  THREAT     : Black-box thinking                                             ║
-║  COUNTER    : First principles                                                ║
+║  COUNTER    : First principles                                               ║
 ║                                                                              ║
-║  STATUS     : ██████████████████████████████████████████  ONLINE              ║
+║  STATUS     : ██████████████████████████████████████████  ONLINE             ║
 ║                                                                              ║
 ╚══════════════════════════════════════════════════════════════════════════════╝
 ```
@@ -106,12 +106,12 @@ I am particularly interested in the space where **models, mathematics, evaluatio
 ├──────────────────────────────────────────────────────────────────┤
 │                                                                  │
 │  Classical ML        ████████████████████████░░  FOUNDATION      │
-│  Deep Learning       ██████████████████░░░░░░░  EXPANDING       │
-│  LLM Systems         ███████████████████░░░░░░  ACTIVE          │
-│  AI Evaluation       █████████████████████░░░░  ACTIVE          │
-│  AI Safety           ██████████████░░░░░░░░░░  EXPLORING       │
-│  Data Engineering    █████████████████░░░░░░░  BUILDING        │
-│  Research            ███████████████░░░░░░░░░  ACCELERATING    │
+│  Deep Learning       ██████████████████░░░░░░░  EXPANDING        │
+│  LLM Systems         ███████████████████░░░░░░  ACTIVE           │
+│  AI Evaluation       █████████████████████░░░░  ACTIVE           │
+│  AI Safety           ██████████████░░░░░░░░░░  EXPLORING         │
+│  Data Engineering    █████████████████░░░░░░░  BUILDING          │
+│  Research            ███████████████░░░░░░░░░  ACCELERATING      │
 │                                                                  │
 │  CURIOSITY           █████████████████████████████████████ 100%  │
 │                                                                  │
@@ -648,19 +648,19 @@ It is closer to a **research notebook with source code attached**.
 │                     EXPERIMENT ARCHIVE                        │
 ├───────────────────────────────────────────────────────────────┤
 │                                                               │
-│  [ML-001] Logistic Regression                                │
+│  [ML-001] Logistic Regression                                 │
 │  [ML-002] Multi-Class Classification                          │
 │  [ML-003] Decision Trees                                      │
 │  [ML-004] Random Forest                                       │
-│  [ML-005] Support Vector Machines                              │
+│  [ML-005] Support Vector Machines                             │
 │  [ML-006] PCA                                                 │
 │  [DS-007] E-Commerce Analytics                                │
 │  [DS-008] Olympics Analytics                                  │
-│  [LLM-009] LLM Internals                                     │
+│  [LLM-009] LLM Internals                                      │
 │  [AI-010] AETHER Evaluation Infrastructure                    │
-│  [SYS-011] Application Engineering                             │
+│  [SYS-011] Application Engineering                            │
 │                                                               │
-│  ARCHIVE STATUS: CONTINUOUSLY EXPANDING                        │
+│  ARCHIVE STATUS: CONTINUOUSLY EXPANDING                       │
 │                                                               │
 └───────────────────────────────────────────────────────────────┘
 ```
@@ -722,7 +722,7 @@ The public repository listing explicitly identifies these repositories as forks 
                   REPOSITORY PROVENANCE MAP
 
              ┌──────────────────────────┐
-             │       MY WORK / LAB       │
+             │       MY WORK / LAB      │
              └─────────────┬────────────┘
                            │
        ┌───────────────────┼───────────────────┐
@@ -808,7 +808,7 @@ Linux
            ┌───────────────────┼────────────────────┐
            ▼                   ▼                    ▼
        DATA LAYER          MODEL LAYER        EVALUATION
-           │                   │                    │
+           │                   │                   │
            │              ┌────┼────┐              │
            │              │    │    │              │
            ▼              ▼    ▼    ▼              ▼
@@ -861,7 +861,7 @@ The target is closer to:
 │          +                                                   │
 │  Can communicate results                                     │
 │          +                                                   │
-│  Keeps learning                                               │
+│  Keeps learning                                              │
 │                                                              │
 └──────────────────────────────────────────────────────────────┘
 ```
