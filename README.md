@@ -20,28 +20,28 @@
 ---
 
 ```text
-╔══════════════════════════════════════════════════════════════════════════════╗
-║                         NEURAL-OPS // SECURE CHANNEL                         ║
-╠══════════════════════════════════════════════════════════════════════════════╣
-║                                                                              ║
-║  USER       : Muhammad Aqeel                                                 ║
-║  HANDLE     : MAqeel151214                                                   ║
-║  ROLE       : AI / ML / DL Engineer in Progress                              ║
-║                                                                              ║
-║  DOMAIN     : Machine Learning • Deep Learning • NLP • LLMs                  ║
-║               AI Evaluation • Data Science • Intelligent Systems             ║
-║                                                                              ║
-║  OPERATING  : BUILD → EXPERIMENT → MEASURE → BREAK → REBUILD                 ║
-║                                                                              ║
-║  CURRENT    : Exploring the machinery behind intelligent systems             ║
-║  OBJECTIVE  : Turn mathematical ideas into measurable AI systems             ║
-║                                                                              ║
-║  THREAT     : Black-box thinking                                             ║
-║  COUNTER    : First principles                                               ║
-║                                                                              ║
-║  STATUS     : ██████████████████████████████████████████  ONLINE             ║
-║                                                                              ║
-╚══════════════════════════════════════════════════════════════════════════════╝
+                          ╔══════════════════════════════════════════════════════════════════════════════╗
+                          ║                         NEURAL-OPS // SECURE CHANNEL                         ║
+                          ╠══════════════════════════════════════════════════════════════════════════════╣
+                          ║                                                                              ║
+                          ║  USER       : Muhammad Aqeel                                                 ║
+                          ║  HANDLE     : MAqeel151214                                                   ║
+                          ║  ROLE       : AI / ML / DL Engineer in Progress                              ║
+                          ║                                                                              ║
+                          ║  DOMAIN     : Machine Learning • Deep Learning • NLP • LLMs                  ║
+                          ║               AI Evaluation • Data Science • Intelligent Systems             ║
+                          ║                                                                              ║
+                          ║  OPERATING  : BUILD → EXPERIMENT → MEASURE → BREAK → REBUILD                 ║
+                          ║                                                                              ║
+                          ║  CURRENT    : Exploring the machinery behind intelligent systems             ║
+                          ║  OBJECTIVE  : Turn mathematical ideas into measurable AI systems             ║
+                          ║                                                                              ║
+                          ║  THREAT     : Black-box thinking                                             ║
+                          ║  COUNTER    : First principles                                               ║
+                          ║                                                                              ║
+                          ║  STATUS     : ██████████████████████████████████████████  ONLINE             ║
+                          ║                                                                              ║
+                          ╚══════════════════════════════════════════════════════════════════════════════╝
 ```
 
 > **I don't just want to use AI. I want to understand what is happening underneath it.**
@@ -68,30 +68,30 @@ Some are simply evidence of something I wanted to understand.
 The direction keeps converging:
 
 ```text
-                         MATHEMATICS
-                              │
-                              ▼
-                         DATA SCIENCE
-                              │
-                              ▼
-                       MACHINE LEARNING
-                              │
-                              ▼
-                       DEEP LEARNING
-                              │
-                              ▼
-                            NLP
-                              │
-                              ▼
-                            LLMs
-                              │
-                  ┌───────────┴───────────┐
-                  ▼                       ▼
-             EVALUATION                SAFETY
-                  │                       │
-                  └───────────┬───────────┘
-                              ▼
-                    TRUSTWORTHY AI SYSTEMS
+                                 MATHEMATICS
+                                      │
+                                      ▼
+                                 DATA SCIENCE
+                                      │
+                                      ▼
+                               MACHINE LEARNING
+                                      │
+                                      ▼
+                               DEEP LEARNING
+                                      │
+                                      ▼
+                                    NLP
+                                      │
+                                      ▼
+                                    LLMs
+                                      │
+                          ┌───────────┴───────────┐
+                          ▼                       ▼
+                     EVALUATION                SAFETY
+                          │                       │
+                          └───────────┬───────────┘
+                                      ▼
+                            TRUSTWORTHY AI SYSTEMS
 ```
 
 I am particularly interested in the space where **models, mathematics, evaluation and software engineering collide**.
@@ -101,21 +101,21 @@ I am particularly interested in the space where **models, mathematics, evaluatio
 # `02 // NEURAL PROFILE`
 
 ```text
-┌──────────────────────────────────────────────────────────────────┐
-│                         RESEARCH VECTOR                          │
-├──────────────────────────────────────────────────────────────────┤
-│                                                                  │
-│  Classical ML        ████████████████████████░░  FOUNDATION      │
-│  Deep Learning       ██████████████████░░░░░░░  EXPANDING        │
-│  LLM Systems         ███████████████████░░░░░░  ACTIVE           │
-│  AI Evaluation       █████████████████████░░░░  ACTIVE           │
-│  AI Safety           ██████████████░░░░░░░░░░  EXPLORING         │
-│  Data Engineering    █████████████████░░░░░░░  BUILDING          │
-│  Research            ███████████████░░░░░░░░░  ACCELERATING      │
-│                                                                  │
-│  CURIOSITY           █████████████████████████████████████ 100%  │
-│                                                                  │
-└──────────────────────────────────────────────────────────────────┘
+          ┌──────────────────────────────────────────────────────────────────┐
+          │                         RESEARCH VECTOR                          │
+          ├──────────────────────────────────────────────────────────────────┤
+          │                                                                  │
+          │  Classical ML        ████████████████████████░░  FOUNDATION      │
+          │  Deep Learning       ██████████████████░░░░░░░  EXPANDING        │
+          │  LLM Systems         ███████████████████░░░░░░  ACTIVE           │
+          │  AI Evaluation       █████████████████████░░░░  ACTIVE           │
+          │  AI Safety           ██████████████░░░░░░░░░░  EXPLORING         │
+          │  Data Engineering    █████████████████░░░░░░░  BUILDING          │
+          │  Research            ███████████████░░░░░░░░░  ACCELERATING      │
+          │                                                                  │
+          │  CURIOSITY           █████████████████████████████████████ 100%  │
+          │                                                                  │
+          └──────────────────────────────────────────────────────────────────┘
 ```
 
 ### Current research interests
@@ -140,39 +140,39 @@ AI / ML
 # `03 // MISSION CONTROL`
 
 ```text
-          ┌──────────────────────────┐
-          │       RAW PROBLEM        │
-          └─────────────┬────────────┘
-                        │
-                        ▼
-          ┌──────────────────────────┐
-          │     UNDERSTAND DATA      │
-          └─────────────┬────────────┘
-                        │
-                        ▼
-          ┌──────────────────────────┐
-          │      BUILD MODEL         │
-          └─────────────┬────────────┘
-                        │
-                        ▼
-          ┌──────────────────────────┐
-          │   TEST / MEASURE / BREAK │
-          └─────────────┬────────────┘
-                        │
-                        ▼
-          ┌──────────────────────────┐
-          │       FIND FAILURE       │
-          └─────────────┬────────────┘
-                        │
-                        ▼
-          ┌──────────────────────────┐
-          │      REBUILD SYSTEM      │
-          └─────────────┬────────────┘
-                        │
-                        ▼
-          ┌──────────────────────────┐
-          │       DOCUMENT IT        │
-          └──────────────────────────┘
+                  ┌──────────────────────────┐
+                  │       RAW PROBLEM        │
+                  └─────────────┬────────────┘
+                                │
+                                ▼
+                  ┌──────────────────────────┐
+                  │     UNDERSTAND DATA      │
+                  └─────────────┬────────────┘
+                                │
+                                ▼
+                  ┌──────────────────────────┐
+                  │      BUILD MODEL         │
+                  └─────────────┬────────────┘
+                                │
+                                ▼
+                  ┌──────────────────────────┐
+                  │   TEST / MEASURE / BREAK │
+                  └─────────────┬────────────┘
+                                │
+                                ▼
+                  ┌──────────────────────────┐
+                  │       FIND FAILURE       │
+                  └─────────────┬────────────┘
+                                │
+                                ▼
+                  ┌──────────────────────────┐
+                  │      REBUILD SYSTEM      │
+                  └─────────────┬────────────┘
+                                │
+                                ▼
+                  ┌──────────────────────────┐
+                  │       DOCUMENT IT        │
+                  └──────────────────────────┘
 ```
 
 ### Operating principle
@@ -197,26 +197,26 @@ I prefer projects where I can answer:
 ### [`AETHER-LLM-Evaluation-Platform`](https://github.com/MAqeel151214/AETHER-LLM-Evaluation-Platform)
 
 ```text
-             ┌────────────────────────────────────┐
-             │              AETHER                 │
-             │  LLM EVALUATION / OBSERVABILITY     │
-             └────────────────────────────────────┘
-                         │
-        ┌────────────────┼────────────────┐
-        ▼                ▼                ▼
-   DATA / TASKS      MODEL GATEWAY     EVALUATOR
-        │                │                │
-        ▼                ▼                ▼
-  BENCHMARKS        LLM PROVIDERS      AI JUDGE
-        │                │                │
-        └────────────────┼────────────────┘
-                         ▼
-                    SCORE ENGINE
-                         │
-                         ▼
-              ┌─────────────────────┐
-              │ ANALYTICS / REPORTS │
-              └─────────────────────┘
+                   ┌────────────────────────────────────┐
+                   │              AETHER                │
+                   │  LLM EVALUATION / OBSERVABILITY    │
+                   └────────────────────────────────────┘
+                                     │
+                    ┌────────────────┼────────────────┐
+                    ▼                ▼                ▼
+               DATA / TASKS      MODEL GATEWAY     EVALUATOR
+                    │                │                │
+                    ▼                ▼                ▼
+              BENCHMARKS        LLM PROVIDERS      AI JUDGE
+                    │                │                │
+                    └────────────────┼────────────────┘
+                                     ▼
+                                SCORE ENGINE
+                                     │
+                                     ▼
+                          ┌─────────────────────┐
+                          │ ANALYTICS / REPORTS │
+                          └─────────────────────┘
 ```
 
 AETHER is the clearest expression of my interest in **AI evaluation as a system**, not merely a metric in a notebook.
@@ -274,23 +274,23 @@ There is **mathematics**.
 That is why a major part of this repository archive is dedicated to understanding classical machine-learning algorithms from the inside.
 
 ```text
-               MACHINE LEARNING CORE
-                       │
-       ┌───────────────┼────────────────┐
-       │               │                │
-       ▼               ▼                ▼
-  LINEAR MODELS      TREES             SVM
-       │               │                │
-       ▼               ▼                ▼
- LOGISTIC REG.   DECISION TREE      MARGIN / KERNEL
-       │               │                │
-       └───────────────┼────────────────┘
-                       ▼
-                      PCA
-                       │
-                       ▼
-                DIMENSIONALITY
-                 REDUCTION
+                         MACHINE LEARNING CORE
+                                 │
+                 ┌───────────────┼────────────────┐
+                 │               │                │
+                 ▼               ▼                ▼
+            LINEAR MODELS      TREES             SVM
+                 │               │                │
+                 ▼               ▼                ▼
+           LOGISTIC REG.   DECISION TREE      MARGIN / KERNEL
+                 │               │                │
+                 └───────────────┼────────────────┘
+                                 ▼
+                                PCA
+                                 │
+                                 ▼
+                          DIMENSIONALITY
+                           REDUCTION
 ```
 
 ---
@@ -326,15 +326,15 @@ The notebooks explicitly explore weight updates and decision boundaries rather t
 ### [`Decision-Tree`](https://github.com/MAqeel151214/Decision-Tree)
 
 ```text
-                    ROOT
-                     │
-             ┌───────┴───────┐
-             │               │
-           TEST            TEST
-             │               │
-        ┌────┴────┐     ┌────┴────┐
-        ▼         ▼     ▼         ▼
-      CLASS       CLASS         CLASS
+                            ROOT
+                             │
+                     ┌───────┴───────┐
+                     │               │
+                   TEST            TEST
+                     │               │
+                ┌────┴────┐     ┌────┴────┐
+                ▼         ▼     ▼         ▼
+              CLASS       CLASS         CLASS
 ```
 
 The project explores:
@@ -358,15 +358,15 @@ The repository includes dedicated notebooks for handwritten-digit classification
 ### [`Support-Vector-Machine`](https://github.com/MAqeel151214/Support-Vector-Machine)
 
 ```text
-        CLASS A           CLASS B
-             \             /
-              \           /
-               \  MARGIN /
-                \       /
-                 \     /
-                  \   /
-                SUPPORT
-                VECTORS
+                CLASS A           CLASS B
+                     \             /
+                      \           /
+                       \  MARGIN /
+                        \       /
+                         \     /
+                          \   /
+                        SUPPORT
+                        VECTORS
 ```
 
 The SVM exploration goes from theory to implementation-level intuition:
@@ -402,20 +402,20 @@ The repository describes these concepts in depth and connects the theory to prac
 A dedicated exploration of multi-class decision-making and softmax-based classification.
 
 ```text
-INPUT VECTOR
-     │
-     ▼
-LINEAR TRANSFORMATION
-     │
-     ▼
-LOGITS
-     │
-     ▼
- SOFTMAX
-     │
- ┌───┼───┐
- ▼   ▼   ▼
- C1  C2  C3
+            INPUT VECTOR
+                 │
+                 ▼
+            LINEAR TRANSFORMATION
+                 │
+                 ▼
+            LOGITS
+                 │
+                 ▼
+             SOFTMAX
+                 │
+             ┌───┼───┐
+             ▼   ▼   ▼
+             C1  C2  C3
 ```
 
 ---
@@ -425,22 +425,22 @@ LOGITS
 ### [`Principle-Component-Analysis--PCA-`](https://github.com/MAqeel151214/Principle-Component-Analysis--PCA-)
 
 ```text
-HIGH-DIMENSIONAL SPACE
-
-      •   •
-  •        •
-       •
-   •       •
-      •
-
-          │
-          ▼
-
-     PRINCIPAL AXES
-          │
-          ▼
-
-      LOWER-DIM SPACE
+            HIGH-DIMENSIONAL SPACE
+              
+                    •   •
+                •        •
+                     •
+                 •       •
+                    •
+          
+                    │
+                    ▼
+          
+               PRINCIPAL AXES
+                    │
+                    ▼
+          
+                LOWER-DIM SPACE
 ```
 
 The repository contains a step-by-step PCA notebook, continuing the broader theme of understanding the mathematical machinery behind ML rather than simply importing a model.
@@ -456,28 +456,28 @@ The repository contains a step-by-step PCA notebook, continuing the broader them
 One of the earlier system-building directions:
 
 ```text
-WEB
- │
- ▼
-SCRAPING
- │
- ▼
-RAW DATA
- │
- ▼
-CLEANING
- │
- ▼
-EDA
- │
- ▼
-STATISTICAL PATTERNS
- │
- ▼
-VISUAL ANALYTICS
- │
- ▼
-INSIGHTS
+                  WEB
+                   │
+                   ▼
+                SCRAPING
+                   │
+                   ▼
+               RAW DATA
+                   │
+                   ▼
+               CLEANING
+                   │
+                   ▼
+                  EDA
+                   │
+                   ▼
+          STATISTICAL PATTERNS
+                   │
+                   ▼
+             VISUAL ANALYTICS
+                   │
+                   ▼
+                INSIGHTS
 ```
 
 The project uses an e-commerce dataset pipeline with web scraping, exploratory analysis and visualization using Python, BeautifulSoup, Requests, Pandas, NumPy, Matplotlib and Seaborn.
@@ -495,20 +495,20 @@ This is important because modern AI is still built on the same ancient dependenc
 A Streamlit-based exploration of more than a century of Olympic history.
 
 ```text
-120 YEARS OF DATA
-        │
-        ▼
- ┌───────────────┐
- │  DATA FILTER  │
- └───────┬───────┘
-         ▼
- ┌────────────────┐
- │ VISUAL ANALYTICS│
- └───────┬────────┘
-         ▼
- ┌────────────────┐
- │ PATTERN HUNTING│
- └────────────────┘
+                120 YEARS OF DATA
+                        │
+                        ▼
+                 ┌───────────────┐
+                 │  DATA FILTER  │
+                 └───────┬───────┘
+                         ▼
+                 ┌────────────────┐
+                 │VISUAL ANALYTICS│
+                 └───────┬────────┘
+                         ▼
+                 ┌────────────────┐
+                 │ PATTERN HUNTING│
+                 └────────────────┘
 ```
 
 The project is designed around interactive exploration of Olympic history, including medal performance, countries, athletes and demographic trends.
@@ -561,18 +561,18 @@ The objective is still deeply personal:
 ## [`EthicsBiasSafety`](https://github.com/MAqeel151214/EthicsBiasSafety)
 
 ```text
-                    AI MODEL
-                       │
-        ┌──────────────┼───────────────┐
-        ▼              ▼               ▼
-      ETHICS          BIAS           SAFETY
-        │              │               │
-        └──────────────┼───────────────┘
-                       ▼
-                 MODEL BEHAVIOR
-                       │
-                       ▼
-                 FAILURE ANALYSIS
+                              AI MODEL
+                                 │
+                  ┌──────────────┼───────────────┐
+                  ▼              ▼               ▼
+                ETHICS          BIAS           SAFETY
+                  │              │               │
+                  └──────────────┼───────────────┘
+                                 ▼
+                           MODEL BEHAVIOR
+                                 │
+                                 ▼
+                           FAILURE ANALYSIS
 ```
 
 This area represents an emerging research direction:
@@ -719,34 +719,34 @@ The public repository listing explicitly identifies these repositories as forks 
 # `13 // ORIGINAL VS EXPERIMENTAL`
 
 ```text
-                  REPOSITORY PROVENANCE MAP
-
-             ┌──────────────────────────┐
-             │       MY WORK / LAB      │
-             └─────────────┬────────────┘
-                           │
-       ┌───────────────────┼───────────────────┐
-       ▼                   ▼                   ▼
-   ML STUDIES         DATA PROJECTS      SOFTWARE SYSTEMS
-       │                   │                   │
-       ▼                   ▼                   ▼
-   SVM / Trees        Analytics / EDA      Apps / Web
-   Logistic           Olympics             CLI / GUI
-   PCA                Scraping             Portfolio
-   Classification
-
-
-             ┌──────────────────────────┐
-             │   OPEN-SOURCE STUDY      │
-             │      / FORK CACHE        │
-             └─────────────┬────────────┘
-                           │
-       ┌───────────────────┼───────────────────┐
-       ▼                   ▼                   ▼
-     AGENTS              AI MODELS          SYSTEMS
-   OpenClaw             TRIBE              WorldMonitor
-   Claude Skills        Hunyuan3D          OpenDocument
-   ClawHub
+                                REPOSITORY PROVENANCE MAP
+              
+                           ┌──────────────────────────┐
+                           │       MY WORK / LAB      │
+                           └─────────────┬────────────┘
+                                         │
+                     ┌───────────────────┼───────────────────┐
+                     ▼                   ▼                   ▼
+                 ML STUDIES         DATA PROJECTS      SOFTWARE SYSTEMS
+                     │                   │                   │
+                     ▼                   ▼                   ▼
+                 SVM / Trees        Analytics / EDA      Apps / Web
+                 Logistic           Olympics             CLI / GUI
+                 PCA                Scraping             Portfolio
+                 Classification
+              
+              
+                           ┌──────────────────────────┐
+                           │   OPEN-SOURCE STUDY      │
+                           │      / FORK CACHE        │
+                           └─────────────┬────────────┘
+                                         │
+                     ┌───────────────────┼───────────────────┐
+                     ▼                   ▼                   ▼
+                   AGENTS              AI MODELS          SYSTEMS
+                 OpenClaw             TRIBE              WorldMonitor
+                 Claude Skills        Hunyuan3D          OpenDocument
+                 ClawHub
 ```
 
 The goal is transparency:
@@ -801,27 +801,27 @@ Linux
 # `15 // AI RESEARCH STACK`
 
 ```text
-                    ┌──────────────────────┐
-                    │       AI SYSTEM      │
-                    └──────────┬───────────┘
-                               │
-           ┌───────────────────┼────────────────────┐
-           ▼                   ▼                    ▼
-       DATA LAYER          MODEL LAYER        EVALUATION
-           │                   │                   │
-           │              ┌────┼────┐              │
-           │              │    │    │              │
-           ▼              ▼    ▼    ▼              ▼
-      Cleaning         ML   DL   LLMs        Benchmarks
-      EDA              CNN  NLP  Agents       Metrics
-      Features                         Safety  Robustness
-           │                                    Bias
-           └───────────────────┬────────────────┘
-                               ▼
-                         INTELLIGENCE
-                               │
-                               ▼
-                        HUMAN UNDERSTANDING
+                          ┌──────────────────────┐
+                          │       AI SYSTEM      │
+                          └──────────┬───────────┘
+                                     │
+                 ┌───────────────────┼────────────────────┐
+                 ▼                   ▼                    ▼
+             DATA LAYER          MODEL LAYER        EVALUATION
+                 │                   │                   │
+                 │              ┌────┼────┐              │
+                 │              │    │    │              │
+                 ▼              ▼    ▼    ▼              ▼
+            Cleaning         ML   DL   LLMs        Benchmarks
+            EDA              CNN  NLP  Agents       Metrics
+            Features                         Safety  Robustness
+                 │                                    Bias
+                 └───────────────────┬────────────────┘
+                                     ▼
+                               INTELLIGENCE
+                                     │
+                                     ▼
+                              HUMAN UNDERSTANDING
 ```
 
 ---
